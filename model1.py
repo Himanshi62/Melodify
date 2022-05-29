@@ -29,7 +29,7 @@ BASE_URL = 'https://api.spotify.com/v1/'
 
 #######################     Oauth token         ################################
 headers = {
-    'Authorization': 'Bearer BQAfCUokiL-PweRDa2fDsqglgKfzs-5-gxgEPxOU0snnme5lzOCOqzrvYwVaNXOk0iNyJuvAhOTo9rHAa5POIViaATTGA07K_vYqdhW8BpI6nBfMeY4kCyig5QZx6Asfl5wsJXOE0zLXJo3Sm-NvrRcYogbeyy3LXPE'.format(token=access_token)
+    'Authorization': 'Bearer BQD3fPXs9AZUB7DfmBxFX0oNiLhmxH3JTEAtaG9BptSnMtQIgRHMYJHlqcNBW-a6RyRnUZAQlDSHyNmGyWVygEgaz3FexXdZBSk68bVXJo-kgNgRkIbnE-MDSQuR4cdDJ-vjETvUoZKa9gAUeIcqctJcLx8KcYk-BnU'.format(token=access_token)
 }
 ##########################################################################
 
