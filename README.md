@@ -94,7 +94,6 @@ $ pip install -r requirements.txt
 
 
 ## Useful Links
-- [Deployed Website](https://melodifymusic.herokuapp.com/)
 - [Demo Video]()
 
 
