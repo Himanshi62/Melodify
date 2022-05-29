@@ -80,7 +80,7 @@ Password : IITBOMBAY
 ### Instructions
 - Clone the repo into your local machine
 ```
-git clone https://github.com/Srijha09/Rhythmify.git
+git clone https://github.com/Himanshi62/Melodify.git
 ```
 
 - Log in into Developers account with my login credentials and get the OAuth token and paste in the py files https://developer.spotify.com/dashboard/login
@@ -94,7 +94,7 @@ $ pip install -r requirements.txt
 
 
 ## Useful Links
-- [Deployed Website]()
+- [Deployed Website](https://melodifymusic.herokuapp.com/)
 - [Demo Video]()
 
 
